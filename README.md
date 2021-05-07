@@ -9,7 +9,7 @@ See the follow diagram for an overview to the architecture:
 - Server code is in PHP
 - Unity Client code represents Client1 as the commanding client, while client 2 is another compatible client joining the video chat. 
 
-**Step by Step tutorial to be published soon**....
+Please see [this blog](https://www.agora.io/en/blog/cloud-recording-for-unity-video-chat/) for design and implementation details.
 
 ## License
 The MIT License (MIT).
